@@ -36,7 +36,7 @@ Problem Set 0
 {{< tdclose >}}
 {{< tdopen >}}
 Sec. 1; 2. Give answers only. Your answers to (j), (k), and (l) should be "yes" or "no." Your answers to the others should be one of the following:  
-⇒, ![](/courses/mathematics/18-901-introduction-to-topology-fall-2004/assignments/symbol.jpg), ⇔, ⊂, ⊃, =  
+⇒, {{< resource "5e12e0e9-3d08-bc92-b9c6-23a91291e57a" >}}, ⇔, ⊂, ⊃, =  
   
 Sec. 1; 5. Give answers only  
   

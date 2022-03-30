@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7ea62258-95c2-c1b4-1b22-c2b908e21e58
 resourcetype: Image
 title: symbol.jpg
 uid: 5e12e0e9-3d08-bc92-b9c6-23a91291e57a
